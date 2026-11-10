@@ -1,0 +1,13 @@
+# Build outputs
+build/
+*.bin
+*.elf
+*.map
+*.cache
+compile_commands.json
+
+# IDE & Config
+.vscode/
+.idea/
+*~
+*.swp
